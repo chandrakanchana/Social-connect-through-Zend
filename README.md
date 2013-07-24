@@ -45,5 +45,5 @@ Views<br/>
 
 <b>SCREENSHOTS</b>
 
-<img style="max-width:100%;" src="https://github.com/kanchana-nyros/Social-connect-through-Zend/blob/master/screenshots/ZendApp.png" alt="ZendApp" title="ZendApp">
+<img style="max-width:100%;" src="https://github.com/kanchana-nyros/Social-connect-through-Zend/raw/master/screenshots/ZendApp.png" alt="ZendApp" title="ZendApp">
 
